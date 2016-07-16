@@ -1,0 +1,23 @@
+{
+  "name": "exbook",
+  "version": "1.0.0",
+  "description": "exbook web project for colleges",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hslee33754/MEAN_Exbook.git"
+  },
+  "author": "Kate Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hslee33754/MEAN_Exbook/issues"
+  },
+  "homepage": "https://github.com/hslee33754/MEAN_Exbook#readme"
+}
